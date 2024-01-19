@@ -63,3 +63,10 @@ function confermaReset() {
     reset()
   }
 }
+
+// il pulsante reset svuota soltanto i campi non fa un 'PUT', quello che avevo intenzione di fare
+// ma non ne capivo l'utilità
+
+// per il pulsante delate volevo avere la possibilità di selezionare l'articolo dalla pagina backoffice
+// e poi caricare i valori, in quel momento permettere di eliminare l'articolo con i dati ricevuti
+// sara fatto dato che il tempo è finito :(
